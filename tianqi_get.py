@@ -65,6 +65,5 @@ def main():
             print("温度: " + wendu)
 
 
-
 if __name__ == '__main__':
     main()
